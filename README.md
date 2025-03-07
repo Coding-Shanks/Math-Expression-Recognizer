@@ -87,5 +87,5 @@ Pull requests are welcome! If you have any improvements or bug fixes, feel free 
 This project is open-source and available under the MIT License.
 
 ---
-💡 **Developed with ❤️ using Flask, OpenCV, and Tesseract OCR**
+💡 **Developed with using Flask, OpenCV, and Tesseract OCR**
 
