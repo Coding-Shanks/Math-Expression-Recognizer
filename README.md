@@ -35,7 +35,7 @@ math-expression-recognizer/
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/math-expression-recognizer.git
+   git clone https://github.com/Coding-Shanks/math-expression-recognizer.git
    cd math-expression-recognizer
    ```
 2. Install dependencies:
